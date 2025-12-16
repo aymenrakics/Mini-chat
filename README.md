@@ -1461,8 +1461,7 @@ Si vous trouvez un bug, ouvrez une [issue](https://github.com/votre-username/min
 
 ## 👨‍💻 Auteur
 
-**Votre Nom**  
-Étudiant en Informatique / Développement Web
+**Aymen RAKI**  
 
 📧 Email : [aymen.raki.cs@gmail.com](mailto:aymen.raki.cs@gmail.com)  
 🔗 LinkedIn : [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)  
@@ -1489,14 +1488,6 @@ Ce projet a été développé dans le cadre du module **Bases de Données** pour
 | **Frontend** | HTML5, CSS3, JavaScript ES6+, AJAX, manipulation DOM |
 | **Sécurité** | Hashage bcrypt, protection XSS/SQL injection, validation |
 | **Outils** | Git, MySQL Workbench, phpMyAdmin, VS Code |
-
-## 👥 Remerciements
-
-- **Professeur [Nom]** pour l'enseignement du module Bases de Données
-- **Communauté PHP** pour la documentation exhaustive
-- **Stack Overflow** pour les solutions aux problèmes rencontrés
-- **Chart.js** pour la bibliothèque de graphiques
-- **Contributors** qui ont aidé à améliorer ce projet
 
 ## 📄 License
 
@@ -1525,56 +1516,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-## 📚 Ressources Supplémentaires
-
-### Documentation Officielle
-
-- [PHP Manual](https://www.php.net/manual/fr/)
-- [MySQL Documentation](https://dev.mysql.com/doc/)
-- [MDN Web Docs](https://developer.mozilla.org/fr/)
-- [Chart.js Documentation](https://www.chartjs.org/docs/)
-
-### Tutoriels Recommandés
-
-- [PHP The Right Way](https://phptherightway.com/)
-- [SQL Teaching](https://www.sqlteaching.com/)
-- [JavaScript.info](https://javascript.info/)
-- [Learn Git Branching](https://learngitbranching.js.org/)
-
-### Livres
-
-- **"PHP et MySQL"** par Luke Welling & Laura Thomson
-- **"Learning PHP, MySQL & JavaScript"** par Robin Nixon
-- **"SQL for Dummies"** par Allen G. Taylor
-
-### Outils Utiles
-
-- [MySQL Workbench](https://www.mysql.com/products/workbench/) - Design de base de données
-- [Postman](https://www.postman.com/) - Test d'API
-- [DB Diagram](https://dbdiagram.io/) - Schémas de base de données
-- [Regex101](https://regex101.com/) - Test d'expressions régulières
-
----
-
-## 🎯 Checklist de Déploiement
-
-Avant de mettre en production :
-
-- [ ] Désactiver l'affichage des erreurs (`error_reporting(0)`)
-- [ ] Changer les identifiants de base de données
-- [ ] Activer HTTPS
-- [ ] Configurer les en-têtes de sécurité
-- [ ] Implémenter la limitation de taux (rate limiting)
-- [ ] Sauvegarder régulièrement la base de données
-- [ ] Mettre en place un système de logs
-- [ ] Tester les performances (load testing)
-- [ ] Vérifier la compatibilité cross-browser
-- [ ] Optimiser les requêtes SQL (EXPLAIN)
-- [ ] Minifier CSS/JS
-- [ ] Configurer un système de monitoring
-
----
 
 ## 📞 Support
 
